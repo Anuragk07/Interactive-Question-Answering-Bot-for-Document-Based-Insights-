@@ -1,0 +1,8 @@
+streamlit
+cohere
+langchain
+faiss-cpu
+pandas
+numpy
+PyPDF2
+python-dotenv
