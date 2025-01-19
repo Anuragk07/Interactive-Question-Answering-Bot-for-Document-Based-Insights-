@@ -1,4 +1,4 @@
-# Interactive Question-Answering Bot for Document-Based Insights
+# Interactive Question-Answering Bot for Document-Based Insights changed
 
 This project is a **Streamlit application** that enables users to upload PDF documents, extract their text, and ask questions about the content. It utilizes **Cohere's language model** to generate embeddings for document chunks and stores them in a **FAISS** index for efficient retrieval. Users can query the document, and relevant sections are returned as answers.
 
